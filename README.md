@@ -1,2 +1,4 @@
-# Daa2019-2020
-Exercícios resolvidos das páticas de Daa e submetidas com sucesso na plataforma Mooshak
+# Daa 2020/2021
+Exercícios resolvidos das pátricas de Desenho e Análise de Algoritmos e submetidas com sucesso na plataforma Mooshak
+Está tudo organizado em pastas por prática.
+Os exercícios foram todos resolvidos na linguagem de programação Java.
